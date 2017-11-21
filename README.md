@@ -1,7 +1,7 @@
 # IntelliJIDEA
 
 将破解补丁JetbrainsCrack-2.6.9-release-enc.jar（或者JetbrainsCrack-2.6.2.jar）放到IDEA安装目录的bin目录下（如上图中的方框所示的位置）
-![Image text](IntelliJIDEA/img/1.png)
+![Image text](https://raw.githubusercontent.com/ytguolei/IntelliJIDEA/master/img/1.png)
 
 编辑bin目录下的idea.exe.vmoptions和idea64.exe.vmoptions文件，在文件末尾添加文本：-javaagent:D:\IntelliJ IDEA 2017.2.5\bin\JetbrainsCrack-2.6.9-release-enc.jar【
 注意：D:\IntelliJ IDEA 2017.2.5\bin为文件夹路径，安装路径与此路径不同的话此处必须做相应修改，最后的名称为破解文件的名称，如下图，下同】
