@@ -1,4 +1,4 @@
-# IntelliJIDEA
+# IntelliJIDEA11
 ![Image text](https://raw.githubusercontent.com/ytguolei/IntelliJIDEA/master/img/1.png)
 将破解补丁JetbrainsCrack-2.6.9-release-enc.jar（或者JetbrainsCrack-2.6.2.jar）放到IDEA安装目录的bin目录下（如上图中的方框所示的位置）
 
